@@ -1,0 +1,68 @@
+.idea/
+.vscode/
+
+# Ignore build output directories
+/bin/
+/build/
+/dist/
+/out/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore log files
+*.log
+
+# Ignore package manager directories
+/node_modules/
+/vendor/
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Ignore compiled code or bytecode
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore sensitive or private information
+secrets.txt
+config.json
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore generated documentation
+/doc/
+/docs/
+
+# Ignore personal settings files
+*.suo
+*.user
+*.sln.docstates
+*.tss
+
+# Ignore JAR files
+*.jar
+
+# Ignore Maven build directory
+target/
+
+# Ignore Gradle build directory
+build/
+
+# Ignore logs
+*.log
+logs/
+*.log.*
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
